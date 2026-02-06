@@ -165,7 +165,6 @@ If you encounter any issues with the extension, please check the following:
 
 ![e7d98aca-7941-4d4f-bf32-0ea410a0784a](https://github.com/jahid28/React-Login-Form/assets/129597590/3283fd19-a342-4245-91bd-4db05c2ba8f5)
 
-![2f027f49-c31a-459f-8b72-81c416ee85e0](https://github.com/jahid28/React-Login-Form/assets/129597590/9fc4ed7a-b00b-4a81-939c-50c1bd98c38d)
 
 ## 🔗 Developers profile
 
