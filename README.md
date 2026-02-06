@@ -159,11 +159,15 @@ If you encounter any issues with the extension, please check the following:
 
 ## Screenshots
 
-![2fcbc177-178e-4018-bdf1-02fe639e81a6](https://github.com/logan-keede/Cryptologists/assets/129597590/18687fe7-ca8f-46e7-9266-2b5c008a56f1)
+## Screenshots
 
-https://github.com/Amanparmarimpulse/YouTube-Interaction-Enhancement-Extension/issues/1#issue-3905046385
+![Login Page](https://github.com/logan-keede/Cryptologists/assets/129597590/18687fe7-ca8f-46e7-9266-2b5c008a56f1)
 
-![e7d98aca-7941-4d4f-bf32-0ea410a0784a](https://github.com/jahid28/React-Login-Form/assets/129597590/3283fd19-a342-4245-91bd-4db05c2ba8f5)
+![YouTube Interaction UI](https://github.com/jahid28/React-Login-Form/assets/129597590/3283fd19-a342-4245-91bd-4db05c2ba8f5)
+
+## Related Issue
+[View Issue #1](https://github.com/Amanparmarimpulse/YouTube-Interaction-Enhancement-Extension/issues/1#issue-3905046385)
+
 
 
 ## 🔗 Developers profile
