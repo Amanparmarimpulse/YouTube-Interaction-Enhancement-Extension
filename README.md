@@ -161,7 +161,6 @@ If you encounter any issues with the extension, please check the following:
 
 ## Screenshots
 
-![Login Page](https://github.com/logan-keede/Cryptologists/assets/129597590/18687fe7-ca8f-46e7-9266-2b5c008a56f1)
 ![Image](https://github.com/user-attachments/assets/17f2fd65-2ae9-418c-9340-1ed35615251c)
 
 
